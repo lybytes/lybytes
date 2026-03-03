@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **lybytes/lybytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Billy
+
+I'm an MSc Data Science student at the London School of Economics (LSE), and I'm passionate about leveraging new technology to build cool products and solve hard problems. Check out some of my work or get in touch with me below :)
+
+(Will add more to this soon)
+
+## Contact
+- Email: lybi@tcd.ie
+- LinkedIn: https://www.linkedin.com/in/billyly2225/
